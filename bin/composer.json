@@ -1,0 +1,6 @@
+{
+    "require": {
+        "friendsofcake/bootstrap-ui": "^0.5.1",
+        "josegonzalez/cakephp-upload": "^3.6"
+    }
+}
